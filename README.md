@@ -1,8 +1,8 @@
 ## Multi-model retina artery occlusion prediction using foundation model and small model fusion
 
-by Zhan Li, YiSong Han, YuNing Wang, QingLi Lu, Fan Ye, Yi Liao, SongDi Wu, QinRu Sun, ZiYe Mei, ZhongZhong Liu
+```by Zhan Li, YiSong Han, YuNing Wang, QingLi Lu, Fan Ye, Yi Liao, SongDi Wu, QinRu Sun, ZiYe Mei, ZhongZhong Liu
 
-* **SAIL (Statistic Analysis And Intelligent Learning) Lab of NWU**
+```* **SAIL (Statistic Analysis And Intelligent Learning) Lab of NWU**
 
 * We provide related codes and configuration files to reproduce the "Multi-model retina artery occlusion prediction using foundation model and small model fusion"
 
